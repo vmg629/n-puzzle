@@ -24,12 +24,12 @@ ol, ul {
   float: left;
   font-size: 24px;
   font-weight: bold;
-  line-height: 64px;
-  height: 64px;
+  line-height: 52px;
+  height: 52px;
+  width: 52px;
   margin: 1px;
   padding: 0;
   text-align: center;
-  width: 64px;
   cursor: pointer;
 }
 .square.zero {
